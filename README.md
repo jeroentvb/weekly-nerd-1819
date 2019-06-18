@@ -1,80 +1,127 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019
+This repo contains all my work for the 'Weekly nerd', which consists of 6 <!-- Colleges -->, summaries of visits to 9 companies in Amsterdam & Hilversum, and 3 articles I wrote.
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+## Table of contents
+* [Weekly nerds](#weekly-nerds)
+  * [Sketchnoting - Maaike van Cruchten](#Sketchnoting---Maaike-van-Cruchten)
+  * [I don't care what Airbnb is doing - Stephen Hay](#I-don't-care-what-Airbnb-is-doing---Stephen-Hay)
+  * [Life after the minor (web dev) - Matise](#Life-after-the-minor-(web-dev)---Matise)
+  * [UX at DUO - Maike Klip](#UX-at-DUO---Maike-Klip)
+  * [Schiphol & accessibility - Ischa Gast](#Schiphol-&-accessibility---Ischa-Gast)
+  * [Workshop progressive enhancement - De Voorhoede](#Workshop-progressive-enhancement---De-Voorhoede)
+* [Weekly mingles](#weekly-mingles)
+  * [Elastique](#elastique)
+  * [Valtech](#valtech)
+  * [Mirabeau](#mirabeau)
+  * [Q42](#q42)
+  * [Matise](#matise)
+  * [Icatt](#icatt)
+  * [Lifely](#lifely)
+  * [Dept](#dept)
+* [Articles](#articles)
+  * [Why to use async/await](articles/async-await.md)
+  * [Using the browsers native WebSocket API](articles/native-websocket.md)
+  * [Animating text based on audio amplitude with p5.js](articles/animated-subtitles.md)
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+## Weekly nerds
+All of the 'weekly nerds' I attended to.  
+The reason why not all of my notes are sketched is because I need to think of something to sketch fairly quickly and listen to the talk at the same time, and I am terrible at multitasking. So often I just write down the things I find intereseting / valuable instead of sketching it.
 
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
+### Sketchnoting - Maaike van Cruchten
+<details>
+<summary>Sketchnotes</summary>
 
+![sketchnotes 1](assets/sketchnoting-1.jpg)
+![sketchnotes 2](assets/sketchnoting-2.jpg)
+</details>
 
-Van iedere presentatie maak je sketch-notes en aantekeningen die je op een blog verzamelt. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
+In this talk Maaike spoke about why we should sketchnote. Spoiler: you remember your notes better because you actively thought about the notes. It is also more fun to revisit your notes.  
+At the end we got a little workshop on how to sketchnote ourselves. The sketchnotes above are from that workshop.
 
+### I don't care what Airbnb is doing - Stephen Hay
+<details>
+<summary>Sketchnotes</summary>
 
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
+![don't care what they do](assets/dont-care-what-they-do.jpg)
+</details>
 
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
+Stephen talked about the question 'Can't we do something like this?', where this is referring to some design thing another company is doing.  
+In short, yes and no. We should only be doing (desinging) things if they are appropriate for product you are working on.  
+This talk made me rethink [my portfolio website](https://jeroenvanberkum.nl), which was work in progress at that time.
 
+### Life after the minor (web dev) - Matise
+<details>
+<summary>Sketchnotes</summary>
 
-### Voorbeelden van voorgaande jaren
+![Life after the minor](assets/leven-na-minor.jpg)
+</details>
 
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
+They talked about their tech stack. How it's set up. And they demoed how easy it is to create a new application with it. 
 
+### UX at DUO - Maike Klip
+<details>
+<summary>Sketchnotes</summary>
 
-## Programma
+![ux at duo](assets/ux-at-duo.jpg)
+</details>
 
-### Workshops, praatjes en lezingen
+Maike Klip does UX at DUO. She showed one of the first iterations of DUO.nl, which included some form of a spaceship.  
+She also talked extensively about <!-- verbondenheid? -->.
 
+### Schiphol & accessibility - Ischa Gast
+<details>
+<summary>Sketchnotes</summary>
 
-| Datum  | Wat  | Waar | Link  |
-|---|---|---|---|
-| 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   | CMD |   |
-| 13 Februari | Stephan Hay over Design Patterns  |   |   |
-| 27 Februari | Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise | <a href="https://www.matise.nl">Matise</a> |   |
-| 13 Maart | Maike Klip over ontwerpen voor vluchtelingen | CMD | ICONS |
-| 20 Maart | Ischa Gast over A11y | <a href="https://schiphol.nl">Schiphol</a> |   |
-| 27 Maart | Workshop PE | <a href="https://www.voorhoede.nl/nl/">de Voorhoede</a> |   |
-| 10 April | Daan Rongen over afstuderen en je eigen signatuur behouden | CMD  |   |
-| 17 April | Weekly Mingle |   |   |
-| 24 April | Weekly Mingle |   |   |
-| 8 Mei | Weekly Mingle |   |   |
-| 15 Mei | Weekly Mingle |   |   |
-| 22 Mei | Weekly Mingle |   |   |
-| 29 Mei | Weekly Mingle |   |   |
-| 5 Juni | Weekly Mingle |   |   |
-| 12 Juni | Weekly Mingle |   |   |
-| 19 Juni | Weekly Mingle |   |   |
+![schiphol-accessibility](assets/schiphol-accessibility.jpg)
+</details>
 
+Ischa Gast puts in a lot of effort to make the schiphol website accessible for everyone. He works a lot on edge cases, because he thinks that if you don't, you don't care about that user.  
+After his talk a visually impaired person demonstrated how he uses a computer and browses the web using [jaws](screenreader-link-here). This was really interesting to see as I had never seen a visually impaired person browse the web before.
 
-### Weekly Mingle
-Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine groepjes ga je kennismaken, krijg je een rondleiding en een presentatie. De bedrijven die hier aan meewerken zijn:
+### Workshop progressive enhancement - De Voorhoede
+This was a workshop, so I didn't make any sketchnotes.  
+We first got a little talk about the concept of progressive enhancement, and why it's important. Little new information was told because we had already been thought about the concept in class (browser technologies).  
+Then we formed small groups, picked a feature and designed the functionality progressively enhanced. HTML first, then styling using CSS, and then all the bells and whistles using JavaScript.
 
-* <a href="https://www.deptagency.com/nl-nl/">Dept Amsterdam</a>	
-* <a href="https://www.elastique.nl">Elastique</a>
-* <a href="https://www.valtech.com/nl-nl/">Valtech Amsterdam</a>
-* <a href="https://www.mirabeau.nl">Mirabeau Amsterdam</a>
-* <a href="https://www.q42.nl/">Q42 Amsterdam</a>
-* <a href="https://www.matise.nl">Matise</a>
-* <a href="https://www.icatt.nl">ICATT interactive media</a>
-* <a href="https://lifely.nl">Lifely</a>
+### Graduating and keeping you own signature - Daan Rongen
+I didn't attend to this weekly nerd. <!-- I went windsurfing. The best way to clear my head.  -->
 
-[Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
+## Weekly mingles
+All of the companies I visited during the 'weekly mingles'.
+
+### Elastique
+We first got an introduction about Elastique and what they do (front-end, back-end, design, you name it).  
+Then we talked about the so called 'marshmellows' in projects. 'Marshmellows' are features that look fairly easy in the beginning, but turn out to be a lot more difficult than initially thought.  
+Lastly we talked about the things an intern does at Elastique.
+
+### Valtech
+We first got a small tour around their office. Then we sat down and talked about the projects they do for pon, easyjet (holidays) and others. Their design team first creates a design and then makes a 'storybook' which the front-enders use to create components.
+
+### Mirabeau
+Upon arrival we got a tour of their 2 story office space (which is pretty massive). Then we sat down and spoke about how their projects are set up. Later we discussed how far they would go to make a website accessible. Spoiler: depends on the project. I also showed them the contrast checker that is built in in the chrome dev tools. 
+
+### Q42
+When we arrived we were greeted by some fresh paintwork. They were redoing the walls.  
+When we sat down they first introduced Q42. They told us what kinds of projects they do, how they are done, and what tech stack they use. Which depends on the project. They also have a bigger office situated in Den Haag.  
+Furthermore, they have a few small label which develop products in house. They even have a small gamestudio.  
+Last but not least we talked about why we all (them too) have chosen CMD. I also showed them my [windsurf-stats](https://github.com/jeroentvb/windsurf-stats) application.
+
+### Matise
+Matise is a fairly small company situated next to Artis. They mainly work with nuxt which makes development very easy for them.  
+At the end we were given a task to think about how we could improve the concept for a tourist website for the province of Limburg.
+
+### Icatt
+At Icatt we sat down with the owner, a back-end developer, a front-end developer and a (ux) designer. It was cool to hear from each one of them what they do at Icatt.  
+They showed a few of their projects, which were mostly for very formal entities, such as <!-- gemeente, stichtingen, pensioen -->.  
+
+### Lifely
+At lifely we first talked about the way they handle and plan projects. They work scrum-ish; scrum with their own twists. This was quite a lenghthy explaination.  
+Next we spoke about their tech stack which consists of react, typescript and graphql. We also got an in depth explaination of how typescript works.
+
+### Dept
+<!-- Coming soon -->
+
+## Articles
+* [Why to use async/await](articles/async-await.md)
+* [Using the browsers native WebSocket API](articles/native-websocket.md)
+* [Animating text based on audio amplitude with p5.js](articles/animated-subtitles.md)
