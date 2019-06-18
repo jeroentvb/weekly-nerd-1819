@@ -1,5 +1,5 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019
-This repo contains all my work for the 'Weekly nerd', which consists of 6 <!-- Colleges -->, summaries of visits to 9 companies in Amsterdam & Hilversum, and 3 articles I wrote.
+This repo contains all my work for the 'Weekly nerd', which consists of 6 lectures, summaries of visits to 9 companies in Amsterdam & Hilversum, and 3 articles I wrote.
 
 ## Table of contents
 * [Weekly nerds](#weekly-nerds)
@@ -66,7 +66,7 @@ They talked about their tech stack. How it's set up. And they demoed how easy it
 </details>
 
 Maike Klip does UX at DUO. She showed one of the first iterations of DUO.nl, which included some form of a spaceship.  
-She also talked extensively about <!-- verbondenheid? -->.
+She also talked extensively about how connected people are to DUO.
 
 ### Schiphol & accessibility - Ischa Gast
 <details>
@@ -112,7 +112,7 @@ At the end we were given a task to think about how we could improve the concept 
 
 ### Icatt
 At Icatt we sat down with the owner, a back-end developer, a front-end developer and a (ux) designer. It was cool to hear from each one of them what they do at Icatt.  
-They showed a few of their projects, which were mostly for very formal entities, such as <!-- gemeente, stichtingen, pensioen -->.  
+They showed a few of their projects, which were mostly for very formal entities, such as the municipality, foundations and pension funds.  
 
 ### Lifely
 At lifely we first talked about the way they handle and plan projects. They work scrum-ish; scrum with their own twists. This was quite a lenghthy explaination.  
