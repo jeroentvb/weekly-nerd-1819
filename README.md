@@ -119,7 +119,12 @@ At lifely we first talked about the way they handle and plan projects. They work
 Next we spoke about their tech stack which consists of react, typescript and graphql. We also got an in depth explaination of how typescript works.
 
 ### Dept
-<!-- Coming soon -->
+Rondleiding begane grond. Flexplekken. Gehad over bedrijf en hoe het werkt (borrels, uitjes etc). Vooral gehad over wat een moet kunnen. 
+
+Voelde als een reclamepraatje voor een stageplek bij dept
+
+Upon arrival we first got a small tour of the ground floor of their office. Then we sat down in one of their meeting rooms. They spoke about what they expect from an intern and how the company works. They also told us that they organize a lot of events and trips with the whole company. We also talked a little about the minor and how we work.  
+At the end we also received a small tour of the first floor.
 
 ## Articles
 * [Why to use async/await](articles/async-await.md)
